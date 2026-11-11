@@ -1,0 +1,38 @@
+{
+  "entrada": {
+    "linhas_entrada": 27,
+    "datas_invalidas_removidas": 0,
+    "duplicatas_identicas_removidas": 0,
+    "umidade_ausentes_ou_invalidos": 0,
+    "ph_ausentes_ou_invalidos": 0,
+    "fosforo_ausentes_ou_invalidos": 0,
+    "potassio_ausentes_ou_invalidos": 0,
+    "bomba_ausentes_ou_invalidos": 0,
+    "simulado_ausentes_ou_invalidos": 0,
+    "nitrogenio_ausentes_ou_invalidos": 0,
+    "chuva_prevista_ausentes_ou_invalidos": 0
+  },
+  "conjunto_completo": {
+    "linhas_entrada": 2160,
+    "datas_invalidas_removidas": 0,
+    "duplicatas_identicas_removidas": 0,
+    "umidade_ausentes_ou_invalidos": 0,
+    "ph_ausentes_ou_invalidos": 0,
+    "fosforo_ausentes_ou_invalidos": 0,
+    "potassio_ausentes_ou_invalidos": 0,
+    "bomba_ausentes_ou_invalidos": 0,
+    "simulado_ausentes_ou_invalidos": 0,
+    "nitrogenio_ausentes_ou_invalidos": 0,
+    "chuva_prevista_ausentes_ou_invalidos": 0
+  },
+  "linhas_wokwi": 27,
+  "linhas_python": 2133,
+  "primeira_hora": "2026-01-01 00:00:00",
+  "fim_cobertura_exclusivo": "2026-04-01 00:00:00",
+  "vazao_l_min": 2.0,
+  "janela_horas": 3,
+  "semente": 575120,
+  "bomba_ligada_h": 445.0,
+  "agua_estimada_l": 53400.0,
+  "acionamentos_conhecidos": 165
+}

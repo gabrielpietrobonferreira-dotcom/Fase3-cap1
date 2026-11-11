@@ -1,0 +1,24 @@
+# Planilhas e CSVs fora do versionamento por padrão (padrão do repositório)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# Exceções: arquivos CSV revisados desta entrega acadêmica
+!1TIAO/FASE3/CAP-1-ETAPAS-DE-UMA-MAQUINA-AGRICOLA/dados/*.csv
+!1TIAO/FASE3/CAP-1-ETAPAS-DE-UMA-MAQUINA-AGRICOLA/resultados/*.csv
+!1TIAO/FASE3/CAP-1-ETAPAS-DE-UMA-MAQUINA-AGRICOLA/resultados/graficos/*.csv
+
+# Segredos e arquivos de ambiente locais
+.env
+.env.*
+*.env
+*.env.*
+!1TIAO/FASE3/CAP-1-ETAPAS-DE-UMA-MAQUINA-AGRICOLA/config/oracle.env.example
+
+# Ambientes locais, caches e configurações da IDE
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/

@@ -1,0 +1,14 @@
+[
+    {
+        "data": "2026-11-01",
+        "cultura": "Soja",
+        "acao": "Irrigacao automatica",
+        "detalhes": "Bomba ativada devido a baixa umidade no setor A"
+    },
+    {
+        "data": "2026-11-02",
+        "cultura": "Milho",
+        "acao": "Correcao de pH",
+        "detalhes": "Adicao de nutrientes via fertirrigacao"
+    }
+]

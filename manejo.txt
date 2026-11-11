@@ -1,0 +1,13 @@
+==================================================
+FARMTECH SOLUTIONS - RELATÓRIO OPERACIONAL DE MANEJO
+==================================================
+Data de emissão: 2026-11-01
+Status do Sistema: Sensores e telemetria operacionais.
+
+RESUMO DAS ATIVIDADES:
+- Setor A: Irrigação automática disparada devido à baixa umidade do solo.
+- Setor B: Aplicação de fertirrigação para ajuste de níveis de pH e NPK.
+- Manutenção: Checagem preventiva dos motores da bomba agendada.
+
+Observações: Registros consolidados para carga no banco Oracle.
+==================================================
